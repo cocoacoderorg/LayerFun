@@ -39,6 +39,10 @@ build/*
 *.pbxuser
 *.mode1v3
 dSYM_Archive/*
+*.perspective 
+*.perspectivev3
+*.xcuserstate
+
 
 # svn
 .svn
@@ -48,4 +52,4 @@ dSYM_Archive/*
 .hg/*
 
 # osx stuff
-gitprofile
+profile
